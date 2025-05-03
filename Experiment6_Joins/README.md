@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name: Prasanna R
-## Reg.no:212222040120
+## Name: shridharshini s
+## Reg.no:212222060240
 ## AIM
 To study and implement different types of joins.
 

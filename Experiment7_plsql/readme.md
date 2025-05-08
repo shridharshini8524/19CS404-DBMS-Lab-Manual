@@ -1,5 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Name: shri dharshini s
+## Reg.no:212222060240
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
